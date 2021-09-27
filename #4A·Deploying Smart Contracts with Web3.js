@@ -27,4 +27,6 @@ web3.eth.getTransactionCount(account1, (err, txCount) => {
     console.log('err:', err, 'txHash:', txHash)
    })
 })
+// txHash: 0xd5ae77c77ca9710f142deb2033edc261ac22b1a0d899d31c35f0cdaa3d950970
+// contract address: 0x118A3067e32565999f9f7cca234BC59c3DcC8E91
 
