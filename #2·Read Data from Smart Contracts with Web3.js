@@ -1,7 +1,5 @@
 Reading HEX Token contract with Web3.js
 =========================================
-
-node 
 const Web3 = require('web3')
 const rpcURL = 'https://mainnet.infura.io/v3/21789368dc1f4df8bba7e3913ddf354a'
 const web3 = new Web3(rpcURL)
